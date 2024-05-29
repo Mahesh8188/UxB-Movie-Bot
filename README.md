@@ -1,27 +1,19 @@
 <p align="center">
-  <img src="https://graph.org/file/8e0fca27184354f479593.jpg" alt="TG_BOTZ Logo">
+  <img src="https://graph.org/file/70a8d686639e4dfbc57b9.jpg" alt="ultroidxTeam Logo">
 </p>
 <h1 align="center">
   TG_UPDATES1
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝑊𝑒𝑙𝑐𝑜𝑚𝑒+𝑇𝑜+TG_BOTZ-Bot;𝐴+𝑠𝑖𝑚𝑝𝑙𝑒+𝑎𝑛𝑑+𝑝𝑜𝑤𝑒𝑟𝑓𝑢𝑙+𝐵𝑜𝑡!;𝐼𝑛𝑑𝑒𝑥𝑒𝑠+𝐹𝑖𝑙𝑒𝑠+𝑎𝑏𝑜𝑣𝑒+2𝐺𝐵;𝐴+𝐵𝑜𝑡+𝑤𝑖𝑡ℎ+𝑑𝑜𝑢𝑏𝑙𝑒+𝑏𝑢𝑡𝑡𝑜𝑛!;𝑆𝑡𝑎𝑟𝑡+𝑚𝑒𝑠𝑠𝑎𝑔𝑒+𝑤𝑖𝑡ℎ+𝑝𝑖𝑐!;𝐴𝑛𝑑+𝑚𝑜𝑟𝑒+𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠!)
-</p>
-<b>All this codes are created by our developers 
+</p> 
 
-<a href='https://t.me/SHD_KHAN'>SHAHID KHAN 👨‍💻</a>.</b>
+<a href='https://t.me/ultroidxTeam'>ultroidxTeam 👨‍💻</a>.</b>
 
-<b><a href='https://t.me/TG_Bots_Supporter'>KISHORE 👨‍💻</a>.</b>
+<b><a href='https://t.me/ultroid_official'>channel 👨‍💻</a>.</b>
 
-<b><a href='https://t.me/parshucr'>parshucr 👨‍💻</a>.</b>
+<b><a href='https://t.me/Ultroidofficial_chat'>Chat 👨‍💻</a>.</b>
 
-<b><a href='https://t.me/anonymous7370'>N33VARPV2 👨‍💻</a>.</b>
-
-<b><a href='https://github.com/Mujahith123'>MUJAHITH 👨‍💻</a>.</b>
-
-<b><a href='https://github.com/Joelkb'>JOEL 👨‍💻</a>.</b>
-
-<b><a href='https://github.com/TeamHMT'>TEAMHMT 👨‍💻</a>.</b>
 
 <b><u>
 we are nothing without your support please support us to bring more features in bot
@@ -69,9 +61,9 @@ we are nothing without your support please support us to bring more features in 
 - [x] 𝐴𝑢𝑡𝑜 𝐷𝑒𝑙𝑒𝑡𝑒
 - [x] 𝐴𝑛𝑑 𝑀𝑜𝑟𝑒...
 
-<b>𝑇𝑜 𝑘𝑛𝑜𝑤 𝑎𝑏𝑜𝑢𝑡 𝑎𝑙𝑙 𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠, 𝐽𝑜𝑖𝑛 𝑜𝑢𝑟 <a href='https://t.me/TG_BOTS_UPDATE'>𝑢𝑝𝑑𝑎𝑡𝑒𝑠 𝑐ℎ𝑎𝑛𝑛𝑒𝑙</a>.</b>
+<b>𝑇𝑜 𝑘𝑛𝑜𝑤 𝑎𝑏𝑜𝑢𝑡 𝑎𝑙𝑙 𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠, 𝐽𝑜𝑖𝑛 𝑜𝑢𝑟 <a href='https://t.me/Ultroid_official'>𝑢𝑝𝑑𝑎𝑡𝑒𝑠 𝑐ℎ𝑎𝑛𝑛𝑒𝑙</a>.</b>
 
-<a href='https://t.me/TG_Autofilter1_Bot'>🅳︎🅴︎🅼︎🅾︎ 🅱︎🅾︎🆃︎</a>
+<a href='https://t.me/ultroidxTeam'>🅳︎🅴︎🅼︎🅾︎ 🅱︎🅾︎🆃︎</a>
 
 ## 𝐶𝑜𝑚𝑚𝑎𝑛𝑑𝑠
 ```
@@ -129,13 +121,13 @@ we are nothing without your support please support us to bring more features in 
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
-* Check [info.py](https://github.com/Kushalhk/TG_BOTZ/blob/stream-feature/info.py) for more optional variables
+* Check [info.py](https://github.com/sahildesai07/uxb-movie-bot/blob/stream-feature/info.py) for more optional variables
 
 
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Kushalhk/TG_BOTZ">
+<a href="https://heroku.com/deploy?template=https://github.com/sahildesai07/uxb-movie-bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
@@ -147,7 +139,7 @@ we are nothing without your support please support us to bring more features in 
 <br>
 <br>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Kushalhk/TG_BOTZ&branch=stream-feature&name=TG_FILTER_BOT)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/sahildesai07/uxb-movie-bot&branch=stream-feature&name=TG_FILTER_BOT)
 </details>
 
 <details><summary>Deploy To Render</summary>
