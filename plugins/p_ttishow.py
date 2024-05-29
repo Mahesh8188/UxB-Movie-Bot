@@ -9,7 +9,7 @@ from Script import script
 from pyrogram.errors import ChatAdminRequired
 import asyncio 
 
-"""-----------------------------------------https://t.me/TG_LINKS_CHANNEL--------------------------------------"""
+"""-----------------------------------------https://t.me/ultroidxTeam--------------------------------------"""
 
 @Client.on_message(filters.new_chat_members & filters.group)
 async def save_group(bot, message):
@@ -38,7 +38,7 @@ async def save_group(bot, message):
             await bot.leave_chat(message.chat.id)
             return
         buttons = [[
-                    InlineKeyboardButton('🔸 ᴍᴇꜱꜱᴀɢᴇ ʜᴇʀᴇ 🔹', url="https://t.me/TG_Bots_Supporter")
+                    InlineKeyboardButton('🔸 ᴍᴇꜱꜱᴀɢᴇ ʜᴇʀᴇ 🔹', url="https://t.me/ultroidxTeam")
                  ],[
                     InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ', url=CHNL_LNK),
                     InlineKeyboardButton('ɢʀᴏᴜᴘ', url=GRP_LNK)
@@ -61,7 +61,7 @@ async def save_group(bot, message):
                                                  caption=(script.MELCOW_ENG.format(u.mention, message.chat.title)),
                                                  reply_markup=InlineKeyboardMarkup(
                                                                          [[
-                    InlineKeyboardButton('🔸 ᴍᴇꜱꜱᴀɢᴇ ʜᴇʀᴇ 🔹', url="https://t.me/TG_Bots_Supporter")
+                    InlineKeyboardButton('🔸 ᴍᴇꜱꜱᴀɢᴇ ʜᴇʀᴇ 🔹', url="https://t.me/ultroidxTeam")
                  ],[
                     InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ', url=CHNL_LNK),
                     InlineKeyboardButton('ɢʀᴏᴜᴘ', url=GRP_LNK)
@@ -89,8 +89,8 @@ async def leave_a_chat(bot, message):
         chat = chat
     try:
         buttons = [[
-            InlineKeyboardButton('Support Group', url="https://t.me/TG_SUPPORT_GROUP"),
-            InlineKeyboardButton('Owner', url="https://t.me/KUSHALHK")
+            InlineKeyboardButton('Support Group', url="https://t.me/ultroidofficial_chat"),
+            InlineKeyboardButton('Owner', url="https://t.me/ultroidxTeam")
         ],[
             InlineKeyboardButton('Use Me Here', url=f'https://t.me/{SUPPORT_CHAT}')
         ]]
